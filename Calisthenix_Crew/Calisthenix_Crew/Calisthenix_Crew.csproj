@@ -103,6 +103,8 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\Calisthenix_CrewDB.cs" />
     <Compile Include="Models\Exercise.cs" />
     <Compile Include="Models\ExerciseGuide.cs" />
     <Compile Include="Models\Guide.cs" />
